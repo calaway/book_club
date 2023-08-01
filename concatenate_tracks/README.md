@@ -13,14 +13,18 @@ This script is useful when you have multiple mp3 files per chapter. It will
 - `ruby`
 - `ffmpeg`
 
-### Basic Usage
+### Usage
+
+**Note: Rename all files to remove any colons (`:`) before running script**
+
+#### Basic Usage
 
 ```bash
 cd path/to/audiobook/mp3s
 ruby path/to/contatenate_mp3s.rb track_groups.txt track_titles.txt
 ```
 
-### Detailed Usage
+#### Detailed Usage
 
 First create a file of track groupings by listing all mp3 files. I.e.
 ```bash
