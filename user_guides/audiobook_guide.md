@@ -2,7 +2,8 @@
 
 This is a walk through on how to download and listen to an audiobook.
 
-The steps involved are:
+## Oveview
+
 1. Install and set up an audiobook app
 1. Download the audiobook
 1. Unzip the audiobook folder and move it to your audiobook directory
