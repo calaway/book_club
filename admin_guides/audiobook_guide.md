@@ -1,15 +1,15 @@
 # Audiobook Guide
 
-## Audible
+## Purpose
 
-This guide will allow an Audible user to play audiobooks they have purchased via any audiobook player they prefer.
+This guide will allow audiobooks purchased in `.aax` format to be played in any audiobook player.
 
 ### Convert to MP3:
 
-1. Download an audiobook purchased from Audible
+1. Download the audiobook you purchases in `.aax` format
 1. Find your Audible activation bytes key be uploading the AAX file to https://audible-tools.kamsker.at/
 1. Clone the repo [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3): `git clone https://github.com/KrumpetPirate/AAXtoMP3.git`
-1. Install dependencies: `brew install grep findutils gnu-sed ffmpeg mediainfo`
+1. Install dependencies: `brew install ffmpeg gnu-sed grep findutils mediainfo`
 1. Convert the AAX file to MP3 files: `bash AAXtoMP3 --authcode abcd1234 ~/Downloads/my-book.aax`
 
 ### Rename Files:

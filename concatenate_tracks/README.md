@@ -42,3 +42,5 @@ Third, run the script from the directory containing your mp3s, passing the two f
 cd path/to/audiobook/mp3s
 ruby path/to/contatenate_mp3s.rb track_group_file track_titles
 ```
+
+Finally, find the contatenated mp3s saved to a directory called `processed`.
