@@ -18,7 +18,7 @@ Book club, audiobooks, ebooks
 ## Each book
 1. If from the public library:
     1. Search book on OverDrive: https://slcpl.overdrive.com/
-    1. Download ebook as `.acsm` file
+    1. Download ebook as an `.acsm` file
 1. If from Google Books:
     1. Download from https://play.google.com/books >> Library >> book's dot menu >> Export >> Export ACSM for EPUB
 1. Open the `.acsm` file with Adobe Digital Editions, wait for the book to be imported and open, then close the application
