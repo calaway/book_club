@@ -6,6 +6,7 @@ Book club, audiobooks, ebooks
 1. Install Adobe Digital Editions
     1. Download [here](https://www.adobe.com/solutions/ebook/digital-editions/download.html), install, and open application
     1. When asked to authorize, log in with an existing Adobe ID or create one (note that you can choose to authorize without an ID, but you’ll risk losing access to books if you lose access to that particular machine)
+           1. Creating an Adobe ID should be done without using any of the Federated Login options. Adobe Digital Editions will not allow those for authorization.
     1. You can now close the application
 1. Install Calibre
     1. Download [here](https://calibre-ebook.com/download), install, and open application
